@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Ahmedpur</string>
+    <string name="location_permission">Location Permission</string>
+    <string name="camera_permission">Camera Permission</string>
+    <string name="storage_permission">Storage Permission</string>
+    <string name="cameraPermissionDescription">Allows apps to use your camera to take photos and record videos. Apps need this permission so you can take pictures.</string>
+    <string name="storagePermissionDescription">Allows apps to read and write to your internal or external storage. Apps need this permission so you can pick image or file form your device and you can upload it to server</string>
+    <string name="locationPermissionDescription">Allows apps to access your approximate location.</string>
+    <string name="permissionHeaderDescription">For the purpose of PropertyTax Shirol, we need the following Permission from you:</string>
+    <string name="permission_storage_title">Storage Permission</string>
+    <string name="permission_storage_description">Grant storage permission to enable load or store image from/to storage</string>
+    <string name="permission_camera_title">Camera Permission</string>
+    <string name="permission_camera_description">Grant Camera permission to enable Camera capture feature</string>
+    <string name="permission_fine_location_title">Location</string>
+    <string name="permission_location_description" translatable="false">Grant Location permission to enable get location</string>
+
+    <string name="todo">TODO</string>
+    <string name="approve">APPROVE</string>
+
+    <string name="type_your_description">Type your description</string>
+    <string name="type_your_username">Username</string>
+    <string name="type_your_password">Password</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+
+    <string name="Please_enter_emailid">Please enter emailid</string>
+    <string name="Please_enter_firstname">Please enter firstname</string>
+    <string name="Please_enter_lastname">Please enter lastname</string>
+    <string name="Please_enter_valid_emailid">Please enter valid emailid</string>
+
+    <string name="Please_enter_username">Please enter username</string>
+    <string name="Please_enter_password">Please enter password</string>
+    <string name="No_Innter_Connection">No Internet Connection</string>
+    <string name="type_your_emailid">Type your EmailID</string>
+    <string name="type_your_firstname">Type your Firstname</string>
+    <string name="type_your_lastname">Type your Lastname</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="registration">Registration</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="app_version">App version:</string>
+
+    <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="password_change">Password Change</string>
+    <string name="email_id">Email ID</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+    <string name="submit">Submit</string>
+    <string name="close">Close</string>
+
+
+
+
+</resources>
